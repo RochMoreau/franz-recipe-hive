@@ -1,0 +1,13 @@
+{
+  "id": "hive",
+  "name": "Hive",
+  "version": "1.0.1",
+  "description": "Hive: home for busy team",
+  "main": "index.js",
+  "author": "Roch Moreau <pro@roch-moreau.fr>",
+  "license": "MIT",
+  "repository": "https://github.com/RochMoreau/recipe-hive",
+  "config": {
+    "serviceURL": "https://app.hive.com/"
+  }
+}
